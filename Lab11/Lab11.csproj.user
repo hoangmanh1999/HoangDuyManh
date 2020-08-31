@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>Assets\PackageAppXManifest\71x71-large.png</Source>
+    <SmallTileSource>Assets\PackageAppXManifest\71x71-large.png</SmallTileSource>
+    <MediumTileSource>Assets\PackageAppXManifest\71x71-large.png</MediumTileSource>
+    <WideTileSource>Assets\PackageAppXManifest\71x71-large.png</WideTileSource>
+    <LargeTileSource>Assets\PackageAppXManifest\71x71-large.png</LargeTileSource>
+    <AppIconSource>Assets\PackageAppXManifest\71x71-large.png</AppIconSource>
+    <SplashScreenSource>Assets\PackageAppXManifest\71x71-large.png</SplashScreenSource>
+    <PackageLogoSource>Assets\PackageAppXManifest\71x71-large.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
